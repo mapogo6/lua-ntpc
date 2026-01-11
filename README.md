@@ -1,4 +1,4 @@
-# luantpc
+# ntpc
 
 A simple NTP client implemented in Lua.
 
@@ -11,7 +11,7 @@ This project implements a simple NTP client to synchronize time with NTP servers
 To install this package using LuaRocks, run the following command:
 
 ```bash
-luarocks install luantpc
+luarocks install ntpc
 ```
 
 ## Usage
